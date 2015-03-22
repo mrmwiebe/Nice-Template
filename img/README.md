@@ -1,0 +1,3 @@
+#IMAGE FOLDER
+
+For images.
